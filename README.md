@@ -1,24 +1,23 @@
 # Jonatan Barcelos
 
-Engenheiro DevOps / SRE Sênior, especialista em observabilidade. São Paulo, Brasil.
+Engenheiro DevOps/SRE Sênior e especialista em observabilidade • São Paulo, SP
 
-Trabalho com tecnologia há mais de 12 anos. Comecei como desenvolvedor e hoje cuido da observabilidade de cerca de
-90 aplicações críticas no Santander (F1rst Tecnologia). Pela Onedot, minha empresa de consultoria, desenvolvo
-sistemas e infraestrutura na AWS para clientes.
+Atuo em tecnologia há mais de 12 anos. Comecei no desenvolvimento de software e hoje sou responsável pela
+observabilidade de cerca de 90 aplicações críticas no Santander (F1rst Tecnologia). Pela Onedot, minha empresa de
+consultoria, projeto e desenvolvo sistemas e infraestrutura na AWS para clientes de diferentes segmentos.
 
-## No dia a dia
+## Atuação
 
 - Observabilidade com Dynatrace, Grafana e Elastic Stack: dashboards, SLIs/SLOs, alertas com detecção de anomalias,
-  RCA e pós-incidente.
+  análise de causa raiz e revisões pós-incidente.
 - Automação em Python para reduzir TOIL: monitoramento como código, self-healing no OpenShift e uma plataforma
-  interna de RPA usada por 5 equipes.
+  interna de RPA adotada por 5 equipes.
 - AWS com infraestrutura como código (CDK e Terraform), arquitetura orientada a eventos (Lambda, SQS com DLQ e
-  EventBridge), CI/CD com CodePipeline e GitHub Actions, segurança na esteira (Semgrep, gitleaks e cdk-nag) e
-  controle de custos.
-- IA em sistemas de clientes: leitura de documentos, monitoria automática de ligações e changelogs automáticos, com
-  OpenAI, Claude e Amazon Transcribe.
+  EventBridge), CI/CD com CodePipeline e GitHub Actions, segurança no pipeline (Semgrep, gitleaks e cdk-nag) e FinOps.
+- IA Generativa aplicada a sistemas de clientes: processamento de documentos, monitoria automática de ligações e
+  geração de changelogs, com OpenAI, Claude e Amazon Transcribe.
 
-## Stack
+## Tecnologias
 
 - Observabilidade: Dynatrace • Grafana • Prometheus • Elastic Stack • Splunk • New Relic
 - Cloud e plataforma: AWS • Azure • Google Cloud • Red Hat OpenShift • Kubernetes • Docker
@@ -30,5 +29,5 @@ sistemas e infraestrutura na AWS para clientes.
 
 [LinkedIn](https://www.linkedin.com/in/johnbarcelos)
 
-A maior parte do meu código fica em repositórios privados de empregadores e clientes, então o gráfico de
-contribuições mostra essa atividade de forma anônima.
+A maior parte do meu trabalho está em repositórios privados de empregadores e clientes; o gráfico de contribuições
+exibe essa atividade de forma anônima.
